@@ -197,3 +197,12 @@ Sample pom.xml
 
 
     </project>
+    
+    
+| Language      | Tool          | License   |
+| ------------- |:-------------:| ---------:|
+| Java          | PIT, Jumble, Jester | Open Source    |
+| C, C++      | Insure++      |   Commercial    |
+| C#, .NET | Ninja Turtles, Stryker      |    Open Source    |
+|PHP | Infection, Humbug      |    Open Source    |
+| Javascript | Stryker      |    Open Source    |
